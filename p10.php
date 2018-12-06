@@ -15,7 +15,9 @@
 		<?php
 			/*
 				CREATE TABLE student( usn varchar(10), name varchar(20), address varchar(20) );  
-				INSERT INTO student VALUES ('1OX15CS###','###','KOLKATA'), ('1OX15CS###','###','BANGALORE'), ('1OX15CS###','###','HALDIA');		
+
+				INSERT INTO student VALUES ('1OX15CS###','###','KOLKATA'),
+						 ('1OX15CS###','###','BANGALORE'), ('1OX15CS###','###','HALDIA');		
 			*/
 			$a=[];
 
